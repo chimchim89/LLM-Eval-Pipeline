@@ -1,0 +1,5 @@
+Explain transformers in simple terms
+What is overfitting?
+Summarize AI in 2 lines
+Write a Python function for binary search
+What is gradient descent?
