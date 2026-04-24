@@ -1,0 +1,23 @@
+{
+  "name": "LLMResponse",
+  "description": "Structured response from LLM",
+  "type": "object",
+  "properties": {
+    "sentiment": {
+      "type": "string",
+      "description": "The sentiment of the text: positive, negative, or neutral",
+      "enum": ["positive", "negative", "neutral"]
+    },
+    "confidence": {
+      "type": "number",
+      "description": "Confidence score between 0 and 1",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "reasoning": {
+      "type": "string",
+      "description": "Explanation for the sentiment classification"
+    }
+  },
+  "required": ["sentiment", "confidence", "reasoning"]
+}
