@@ -15,7 +15,7 @@ from enum import Enum
 
 # Default model settings - change these as needed
 DEFAULT_TEMPERATURE = 0.1
-DEFAULT_MAX_TOKENS = 150
+DEFAULT_MAX_TOKENS = 200
 
 # Placeholder detection constants
 PLACEHOLDER_EXACT_VALUES = {
