@@ -91,7 +91,7 @@ LLM-Eval-Pipeline/
 
 ## Demo
 
-[![Watch Demo Video](https://cdn.loom.com/sessions/thumbnail-ec8dde90340c4c198bb2907914cab964-7ec3dde90340c4c198bb2907914cab964-gravity-card)](https://www.loom.com/share/ec8dde90340c4c198bb2907914cab964)
+**Watch the demo video:** [Loom Video](https://www.loom.com/share/ec8dde90340c4c198bb2907914cab964)
 
 ## License
 
